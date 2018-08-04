@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\consoleApp1\ExceptionExercise\exceptionExercise\exceptionExercise\bin\Debug\exceptionExercise.exe.config
+C:\Users\micha\OneDrive\Desktop\consoleApp1\ExceptionExercise\exceptionExercise\exceptionExercise\bin\Debug\exceptionExercise.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\ExceptionExercise\exceptionExercise\exceptionExercise\bin\Debug\exceptionExercise.pdb
+C:\Users\micha\OneDrive\Desktop\consoleApp1\ExceptionExercise\exceptionExercise\exceptionExercise\obj\Debug\exceptionExercise.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\ExceptionExercise\exceptionExercise\exceptionExercise\obj\Debug\exceptionExercise.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\ExceptionExercise\exceptionExercise\exceptionExercise\obj\Debug\exceptionExercise.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\ExceptionExercise\exceptionExercise\exceptionExercise\obj\Debug\exceptionExercise.pdb
